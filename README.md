@@ -71,4 +71,4 @@ Fique à vontade pra editar um trecho da história escrito por alguém, desde qu
 
 Finalizando, espero que essa experiência seja interessante, e que te ajude, lá na frente, a trabalhar de forma natural com o Git em sua carreira e nos seus futuros projetos.
 
-Agradeço ao Serratec ppr abrir um canal com a turma de Teresópolis, e ao Raul, Rafael e Gabriela, po toda ajuda e insights. Sem vcs isso não se realizaria! Agradeço de coração
+Agradeço ao Serratec por abrir um canal com a turma de Teresópolis, e ao Raul, Rafael e Gabriela, por toda ajuda e insights. Sem vcs isso não se realizaria! Agradeço de coração
